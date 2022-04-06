@@ -1,4 +1,4 @@
-### Fala cmg, Diegão por aq🥶
+### Salve Diegão aq🥶
 
 - 😬 Procuro primeiro emprego
 - 👌 Curso Análise e Desenvolvimento de Sistemas
