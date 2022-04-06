@@ -6,9 +6,9 @@
 - 🖥 Gamer
 
 <div align="center">
-  <a href="https://github.com/diegotpinheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegotpinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotpinheiro&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DiegoTPinheiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoTPinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTPinheiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
