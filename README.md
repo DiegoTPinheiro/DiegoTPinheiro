@@ -1,6 +1,6 @@
 ### Salve Diegão aq🥶
 
-- 😬 Procuro primeiro emprego
+- 😬 Procuro emprego em dados
 - 👌 Curso Análise e Desenvolvimento de Sistemas
 - ⚽ Santista
 - 🖥 Gamer
